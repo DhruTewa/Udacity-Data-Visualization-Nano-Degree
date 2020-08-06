@@ -5,9 +5,9 @@ This repository contains all the data visualization projects completed as a part
 
 In this project, Tableau dashboard is created to reveal insights from a data set. Task was to created data visualizations that tell a story or highlight patterns in the data set. The work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
 
-- Project Link: [US Flight Delay](https://github.com/DhruTewa/Udacity-Data-Visualization-Nano-Degree/blob/master/US%20Flight%20Delay%20Dashboard.jpg)
+- Project Link: [US Flight Delay](https://public.tableau.com/profile/dhruv.tewari#!/vizhome/Flight_Delay_Dashboard_15953573831280/USFlightDelayDashboard)
 
-![Project Snapshot:](https://github.com/DhruTewa/Predictive-Analytics-for-Business/blob/master/Certificate.PNG)
+![Project Snapshot:](https://github.com/DhruTewa/Udacity-Data-Visualization-Nano-Degree/blob/master/US%20Flight%20Delay%20Dashboard.jpg)
 
 ### Project 2: [Dashboard Desigining]
 
@@ -42,9 +42,12 @@ Our goal of this next phase of the project is to create an animated bubble chart
 
 The purpose of the data visualization capstone project is to give you a chance to combine what we've learned throughout the program. As a part of a project I wrote a blog to describe how I would improve an existing visualization.
 
-- Project link: [Forecast Video Game Sales](https://public.tableau.com/profile/dhruv.tewari#!/vizhome/WindPowerDashboard/WindPowerDashboard)
-- [Blog Link:](https://medium.com/@dhrutewa/udacitys-data-visualization-nano-degree-capstone-project-bf848f11e746) 
-!Project Snapshot](https://github.com/DhruTewa/Udacity-Data-Visualization-Nano-Degree/blob/master/Wind%20Power%20Dashboard.jpg)
+- Project link: [Wind Energy in the US](https://public.tableau.com/profile/dhruv.tewari#!/vizhome/WindPowerDashboard/WindPowerDashboard)
+- Medium Article: [Blog Link:](https://medium.com/@dhrutewa/udacitys-data-visualization-nano-degree-capstone-project-bf848f11e746) 
 
+![Project Snapshot](https://github.com/DhruTewa/Udacity-Data-Visualization-Nano-Degree/blob/master/Wind%20Power%20Dashboard.jpg)
+
+
+### Certificate:
 
 ![Udacity Data Visualization Nanodegree](https://github.com/DhruTewa/Udacity-Data-Visualization-Nano-Degree/blob/master/Udacity1.JPG)
