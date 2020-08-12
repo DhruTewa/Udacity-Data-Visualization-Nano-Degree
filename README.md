@@ -32,7 +32,7 @@ In this project we  bring together all the concept which I learned about data st
 
 Our goal of this next phase of the project is to create an animated bubble chart, make a story out of it, and add audio to narrate the story. The data set used for this project is taken from the world bank data energy_environment_economy.csv to build out your narrated story in Flourish.
 
-- Project Link: [Animate Data Story Telling]( https://public.flourish.studio/story/496634/)
+- Project Link: [Animated Data Story Telling]( https://public.flourish.studio/story/496634/)
 
 ![Project Snapshot](https://github.com/DhruTewa/Udacity-Data-Visualization-Nano-Degree/blob/master/CO2%20vs%20Energy%20Consumption.JPG)
 
